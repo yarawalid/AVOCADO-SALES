@@ -60,5 +60,3 @@ The dashboard provides interactive insights about total sales, volume, bags, ave
 - Regional sales distribution
 - Interactive filters
 
-
-## 📂 Project Structure
